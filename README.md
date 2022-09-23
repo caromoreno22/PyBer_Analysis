@@ -7,4 +7,3 @@ The purpose of the analysis is to create a summary dataframe that shows ride-sha
 
 ## Summary
 * One of my recommendations is to hire more drivers in rural cities in order to increase numbers from total rides to total fares and so on.
-* 
